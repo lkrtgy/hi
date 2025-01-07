@@ -1,2 +1,2 @@
-video_delay=60
+video_delay=1
 disable_touch=30
